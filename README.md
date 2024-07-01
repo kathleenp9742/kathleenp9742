@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kathleen Pham</h1>
-<h3 align="center">I am a junior in high school.</h3>
+<h3 align="center">I am a junior in high school exploring my interests in computer science.</h3>
 
 - 🌱 I’m currently learning **HTML/CSS/JavaScript**
 
